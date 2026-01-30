@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-storybook.svg)](https://www.npmjs.com/package/ai-storybook)
 [![npm downloads](https://img.shields.io/npm/dm/ai-storybook.svg)](https://www.npmjs.com/package/ai-storybook)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-storybook)](https://github.com/lxgic-studios/ai-storybook/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Generate Storybook stories from React components
