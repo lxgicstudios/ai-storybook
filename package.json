@@ -42,7 +42,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-storybook#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-storybook"
+    "url": "git+https://github.com/LXGIC-Studios/ai-storybook.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-storybook/issues"
