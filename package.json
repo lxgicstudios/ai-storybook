@@ -1,5 +1,5 @@
 {
-  "name": "ai-storybook",
+  "name": "@lxgicstudios/ai-storybook",
   "version": "1.0.0",
   "description": "Generate Storybook stories from React components",
   "main": "dist/index.js",
