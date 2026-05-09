@@ -1,7 +1,7 @@
 {
   "name": "@lxgicstudios/ai-storybook",
   "version": "1.0.0",
-  "description": "Generate Storybook stories from React components",
+  "description": "Generate Storybook stories from React components - AI-powered storybook tool with 2025 SEO optimization for developers.",
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
   "bin": {
@@ -15,34 +15,39 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "agentic",
     "ai",
+    "ai-2025",
     "ai-agent",
+    "ai-powered",
     "anthropic",
     "automation",
     "claude",
     "cli",
     "component",
     "design-system",
-    "developer-tools",
-    "frontend",
-    "gpt",
-    "llm",
-    "openai",
+    "developer-productivity",
+    "discoverability",
+    "documentation",
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
     "react",
-    "stories",
+    "seo",
+    "seo-2026",
     "storybook",
-    "testing",
-    "typescript",
-    "ui",
-    "zero-config"
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-storybook#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-storybook.git"
+    "url": "https://github.com/LXGIC-Studios/ai-storybook"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-storybook/issues"
