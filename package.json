@@ -15,7 +15,7 @@
     "openai": "^4.73.0",
     "ora": "^5.4.1"
   },
-  "description": "Generate Storybook stories from React components.",
+  "description": "Generate Storybook stories and docs from React components. Auto-detects props, types, and variants. Works with TypeScript and JSX.",
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0"
